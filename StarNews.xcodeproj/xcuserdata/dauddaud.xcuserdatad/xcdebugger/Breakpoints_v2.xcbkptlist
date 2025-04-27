@@ -119,22 +119,6 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "0AC04BE5-019D-4330-9326-86405C85E763"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "StarNews/Presentation/Login/LoginViewModel.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "49"
-            endingLineNumber = "49"
-            landmarkName = "login(completion:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             uuid = "A7ADF137-355A-4B7E-8A2A-BD471B9CFFCF"
             shouldBeEnabled = "No"
             ignoreCount = "0"
@@ -167,52 +151,6 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "3D05DA59-1EC8-4461-BE75-0D3DEB3176BC"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "StarNews/Presentation/Home/HomeViewModel.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "42"
-            endingLineNumber = "42"
-            landmarkName = "fetchBlogs(completion:)"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "3D05DA59-1EC8-4461-BE75-0D3DEB3176BC - 7569c5d52f874910"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;StarNews.Blog&gt;, Swift.Error&gt;) -&gt; () in StarNews.HomeViewModel.fetchBlogs(completion: () -&gt; ()) -&gt; ()"
-                  moduleName = "StarNews.debug.dylib"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/dauddaud/Documents/Folder_Test/StarNews/StarNews/Presentation/Home/HomeViewModel.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "43"
-                  endingLineNumber = "43">
-               </Location>
-               <Location
-                  uuid = "3D05DA59-1EC8-4461-BE75-0D3DEB3176BC - 7569c5d52f874910"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;StarNews.Blog&gt;, Swift.Error&gt;) -&gt; () in StarNews.HomeViewModel.fetchBlogs(completion: () -&gt; ()) -&gt; ()"
-                  moduleName = "StarNews.debug.dylib"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/dauddaud/Documents/Folder_Test/StarNews/StarNews/Presentation/Home/HomeViewModel.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "43"
-                  endingLineNumber = "43">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             uuid = "282E8AE5-1C90-4CCE-9958-D81C35284DBB"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
@@ -220,38 +158,38 @@
             filePath = "StarNews/Presentation/Home/HomeViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "54"
-            endingLineNumber = "54"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
             landmarkName = "fetchReports(completion:)"
             landmarkType = "7">
             <Locations>
                <Location
-                  uuid = "282E8AE5-1C90-4CCE-9958-D81C35284DBB - dca5888b264610d"
+                  uuid = "282E8AE5-1C90-4CCE-9958-D81C35284DBB - e443a2494506f6ec"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;StarNews.Report&gt;, Swift.Error&gt;) -&gt; () in StarNews.HomeViewModel.fetchReports(completion: () -&gt; ()) -&gt; ()"
                   moduleName = "StarNews.debug.dylib"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/dauddaud/Documents/Folder_Test/StarNews/StarNews/Presentation/Home/HomeViewModel.swift"
+                  urlString = "file:///Users/dauddaud/Downloads/StarNewsApp-main/StarNews/Presentation/Home/HomeViewModel.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "55"
-                  endingLineNumber = "55">
+                  startingLineNumber = "44"
+                  endingLineNumber = "44">
                </Location>
                <Location
-                  uuid = "282E8AE5-1C90-4CCE-9958-D81C35284DBB - dca5888b264610d"
+                  uuid = "282E8AE5-1C90-4CCE-9958-D81C35284DBB - e443a2494506f6ec"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;StarNews.Report&gt;, Swift.Error&gt;) -&gt; () in StarNews.HomeViewModel.fetchReports(completion: () -&gt; ()) -&gt; ()"
                   moduleName = "StarNews.debug.dylib"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/dauddaud/Documents/Folder_Test/StarNews/StarNews/Presentation/Home/HomeViewModel.swift"
+                  urlString = "file:///Users/dauddaud/Downloads/StarNewsApp-main/StarNews/Presentation/Home/HomeViewModel.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "55"
-                  endingLineNumber = "55">
+                  startingLineNumber = "44"
+                  endingLineNumber = "44">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -291,22 +229,6 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "641D51B8-DEDF-4E98-BEC4-5DDBBE00A8E0"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "StarNews/Presentation/Home/HomeViewModel.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "34"
-            endingLineNumber = "34"
-            landmarkName = "fetchArticles(completion:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             uuid = "DBC53EA3-A913-453C-8A9F-B0ECFCED916D"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
@@ -317,70 +239,6 @@
             startingLineNumber = "18"
             endingLineNumber = "18"
             landmarkName = "makeRequest(_:completion:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "416C864F-795E-4673-BFCD-A2C16195A748"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "StarNews/Presentation/Home/HomeViewModel.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "32"
-            endingLineNumber = "32"
-            landmarkName = "fetchArticles(completion:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "9DF2003E-BD49-4D10-A0BF-BE0EC8DDFCCF"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "StarNews/Core/Network/APIClient.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "49"
-            endingLineNumber = "49"
-            landmarkName = "fetchArticles(completion:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "E0EB2636-4308-453A-A45D-247E64A01AA2"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "StarNews/Core/Network/APIClient.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "54"
-            endingLineNumber = "54"
-            landmarkName = "fetchBlogs(completion:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "ACA7417A-F0D9-4C0D-9629-06CE5A841AAA"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "StarNews/Core/Network/APIClient.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "59"
-            endingLineNumber = "59"
-            landmarkName = "fetchReports(completion:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
