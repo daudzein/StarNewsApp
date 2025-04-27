@@ -32,12 +32,9 @@ class AppCoordinator {
     }
     
     private func showHome() {
-//        let homeVC = HomeViewController()
-//        homeVC.onLogout = { [weak self] in
-//            TokenManager.shared.clear()
-//            self?.showLogin()
-//        }
-//        window.rootViewController = UINavigationController(rootViewController: homeVC)
-//        window.makeKeyAndVisible()
+        let homeVC = HomeViewController()
+        
+        window.rootViewController = UINavigationController(rootViewController: homeVC)
+        window.makeKeyAndVisible()
     }
 }

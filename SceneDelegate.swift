@@ -16,18 +16,19 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
     func scene(_ scene: UIScene, willConnectTo session: UISceneSession, options connectionOptions: UIScene.ConnectionOptions) {
         guard let windowScene = (scene as? UIWindowScene) else { return }
         let window = UIWindow(windowScene: windowScene)
-        self.window = window
+        
         
         //Diset melalui AppCoordinator
-//      coordinator = AppCoordinator(window: window)
-//      coordinator?.start() // Coordinator cek sedang login atau tidak
-//      self.window = window
+        coordinator = AppCoordinator(window: window)
+        coordinator?.start() // Coordinator cek sedang login atau tidak
+        self.window = window
         
         // byPass buka halaman Home
-        let homeViewController = HomeViewController() // Ganti dengan HomeViewController yang sesuai
-        let navigationController = UINavigationController(rootViewController: homeViewController)
-        window.rootViewController = navigationController
-        window.makeKeyAndVisible()
+//        self.window = window
+//        let homeViewController = HomeViewController() // Ganti dengan HomeViewController yang sesuai
+//        let navigationController = UINavigationController(rootViewController: homeViewController)
+//        window.rootViewController = navigationController
+//        window.makeKeyAndVisible()
     }
 
     func sceneDidDisconnect(_ scene: UIScene) {

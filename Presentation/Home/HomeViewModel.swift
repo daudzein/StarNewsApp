@@ -7,17 +7,6 @@
 
 import Foundation
 
-//class HomeViewModel {
-//    
-//    // Ambil informasi user (misal: nama atau token)
-//    func getUserInfo() -> String {
-//        // Misalnya kita ambil dari token
-//        guard let accessToken = TokenManager.shared.getAccessToken() else {
-//            return "No User Info"
-//        }
-//        return "Access Token: \(accessToken)"
-//    }
-//}
 
 class HomeViewModel {
     private let apiClient = APIClient()
